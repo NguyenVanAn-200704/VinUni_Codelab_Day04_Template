@@ -106,5 +106,86 @@
     "status": "open",
     "created_at": "2026-09-10T10:04:42.940366+07:00",
     "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-013",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:04:48.774016+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-014",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:05:32.866979+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-015",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "xe VF 8 của tôi bị lỗi hệ thống ADAS",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:05:32.893472+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-016",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "xe VF 8 của tôi bị lỗi hệ thống ADAS",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:06:16.638407+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-017",
+    "customer_name": "Phạm Thị Dung",
+    "issue_description": "phòng tôi đặt ở Vinpearl Nha Trang bị ẩm mốc, mức độ trung bình",
+    "priority": "medium",
+    "status": "open",
+    "created_at": "2026-09-13T17:06:16.647064+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-018",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:06:20.548844+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-019",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "xe VF 8 của tôi bị lỗi hệ thống ADAS",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:06:20.572442+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-020",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:10:09.034710+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-021",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "xe VF 8 của tôi bị lỗi hệ thống ADAS",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:10:09.064855+07:00",
+    "category": "general"
   }
 ]
